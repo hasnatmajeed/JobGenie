@@ -1,0 +1,34 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_c2luY2VyZS1nYXplbGxlLTQ2LmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_21EkDhUMUnuzl7KAF91zlIFxNjJVLkwlhFzlrwjX0O
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+DATABASE_URL="postgresql://HasnatMajeed:npg_yPkLgAFSmd25@ep-late-firefly-a8upjcfj-pooler.eastus2.azure.neon.tech/jobgenie?sslmode=verify-full&channel_binding=require"
+
+# GEMINI_API_KEY = AIzaSyCozy4QIO89ZTHSJv7QncCRCP-ZdO2Zrb8
+# GEMINI_API_KEY=AIzaSyCozy4QIO89ZTHSJv7QncCRCP-ZdO2Zrb8
+
+# new api/
+
+GEMINI_API_KEY=AIzaSyCR0s9vrZsvoZQkFiY4B5P1MEDK-muG_kA
+
+JOBS_DEFAULT_PROVIDER=linkedin
+JOBS_DEFAULT_LOCALITY=us
+JOBS_INDEED_PROVIDER_NAME=Indeed
+JOBS_INDEED_API_SEARCH_URL=https://indeed12.p.rapidapi.com/jobs/search
+JOBS_INDEED_API_HOST=indeed12.p.rapidapi.com
+JOBS_INDEED_API_KEY=s
+JOBS_INDEED_LINK_BASE_URL=https://www.indeed.com
+
+
+JOBS_LINKEDIN_PROVIDER_NAME=LinkedIn
+JOBS_LINKEDIN_API_SEARCH_URL=https://linkedin-job-search-api.p.rapidapi.com/active-jb-24h
+JOBS_LINKEDIN_API_HOST=linkedin-job-search-api.p.rapidapi.com
+JOBS_LINKEDIN_API_KEY=4728ace4damsh4adb22296a211a3p10e86ejsnd1bb2b52e005
+JOBS_LINKEDIN_LINK_BASE_URL=https://www.linkedin.com
+
+
+# ef7c12c28emsh87abc65590947b5p1addf7jsndbba4bf31982
